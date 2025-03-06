@@ -1,1 +1,1 @@
-# Strive
+added an html and css file
